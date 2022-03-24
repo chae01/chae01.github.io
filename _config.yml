@@ -20,7 +20,7 @@ title                    : "채롱 노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "채롱"
-description              : "채롱입니다"
+description              : "I am an **amazing** person."
 url                      : "https://chae01.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "채롱"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "채롱입니다"
   location         : "Somewhere"
   email            :
   links:
